@@ -94,4 +94,4 @@ Thanks to the developers behind the original [`BleKeyboard`](https://github.com/
 
 **Gayan De Silva**  
 🔧 GitHub: [@gayandsilva](https://github.com/gayandsilva)  
-📬 LinkedIn: [linkedin.com/in/gayandsilva](https://linkedin.com/in/gayandsilva)
+📬 LinkedIn: [linkedin.com/in/gayandsilva](https://www.linkedin.com/in/ahtgayandesilva)
