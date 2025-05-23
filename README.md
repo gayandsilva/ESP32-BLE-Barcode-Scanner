@@ -11,7 +11,7 @@ An open-source ESP32-based **Bluetooth Low Energy (BLE)** barcode scanner that r
 - 🔋 Monitors battery voltage and reports status to connected BLE host  
 - 🔌 Controls FET for low-power battery sensing  
 - ✅ Compatible with Android, Windows, macOS, and other BLE-supported devices  
-- 🛒 Designed for seamless integration with SmartPOS systems  
+- 🛒 Designed for seamless integration with POS systems  
 
 ---
 
