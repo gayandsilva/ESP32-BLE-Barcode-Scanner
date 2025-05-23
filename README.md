@@ -38,7 +38,7 @@ An open-source ESP32-based **Bluetooth Low Energy (BLE)** barcode scanner that r
 
 ESP32-BLE-Barcode-Scanner/
 ├── src/
-│ └── main.ino # Main Arduino code
+│ └── ESP32-BLE-Barcode-Scanner.ino # Main Arduino code
 ├── lib/
 │ └── BleKeyboard/ # Modified BLE HID library
 ├── LICENSE # MIT License
